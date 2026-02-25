@@ -99,4 +99,4 @@ Sample reports in `guideline-based-reviews/` show:
 
 Email: mansi.verma5858@gmail.com  
 GitHub: https://github.com/mansiv-11  
-LinkedIn: https://www.linkedin.com/in/mansi-verma-07a9071b3/
+LinkedIn: www.linkedin.com/in/mansi-verma-531033131
